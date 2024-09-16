@@ -7,7 +7,7 @@ A Power BI dashboard to visualize employees' sales targets and actual sales
 
 In this dashboard, there is a table with the employees of a company in a period; the targeted and actual sales ratio for the whole period, the targeted and actual sales ratio for the last three periods, and general information for the entire period. In addition, the 7 users with the highest targeted and realized rate are statically included in the table with their visuals. 
 
-Bu görselleştirmeler sayesinde hangi çalışanın şirket için hedefleri tutturduğu hangilerinin tutturmadığı hakkında çıkarımlar yapılarak çalışanların performansları hakkında bilgi ve analiz sağlayabilmekle birlikte iyi performans gösteren çalışanlar için daha fazla teşvik sağlanabilir.
+Thanks to these visualizations, inferences can be made about which employees have met the targets for the company and which ones have not, providing information and analysis about the performance of the employees, as well as providing incentives for employees who perform well.
 
 ### Steps followed 
 
